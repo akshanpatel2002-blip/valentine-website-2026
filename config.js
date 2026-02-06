@@ -1,5 +1,5 @@
 // Basic Information
-valentineName: "Riya cutieeeeeeeee"                    // Your Valentine's name
+valentineName: "Jade"                    // Your Valentine's name
 pageTitle: "Will You Be My Valentine? 💝" // Browser tab title
 
 // Floating Background Elements
@@ -13,7 +13,7 @@ questions: {
     first: {
         text: "Do you like me?",                   // First question
         yesBtn: "Yes",                             // Yes button text
-        noBtn: "meh",                               // No button text
+        noBtn: "No",                               // No button text
         secretAnswer: "I don't like you, I love you! ❤️"  // Hidden message
     },
     second: {
@@ -21,13 +21,7 @@ questions: {
         startText: "This much!",                   // Text before percentage
         nextBtn: "Next ❤️"                         // Next button text
     },
-      third: {
-        text: "can you love me more",                   // First question
-        yesBtn: "ofcourse boo",                             // Yes button text
-        noBtn: "meh",                               // No button text
-        secretAnswer: "Akshan patel is the best thing that ever happened to me lol jk jk jk ❤️"  // Hidden message
-    },
-    fourth: {
+    third: {
         text: "Will you be my Valentine...?",      // Final question
         yesBtn: "Yes!",                            // Yes button text
         noBtn: "No"                                // No button text
