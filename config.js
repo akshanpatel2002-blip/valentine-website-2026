@@ -1,5 +1,5 @@
 // Basic Information
-valentineName: "Jade"                    // Your Valentine's name
+valentineName: "RIYA CUTIEIEIIEEIEIIEEIE"                    // Your Valentine's name
 pageTitle: "Will You Be My Valentine? 💝" // Browser tab title
 
 // Floating Background Elements
@@ -12,7 +12,7 @@ floatingEmojis: {
 questions: {
     first: {
         text: "Do you like me?",                   // First question
-        yesBtn: "Yes",                             // Yes button text
+        yesBtn: "MEH",                             // Yes button text
         noBtn: "No",                               // No button text
         secretAnswer: "I don't like you, I love you! ❤️"  // Hidden message
     },
@@ -30,15 +30,15 @@ questions: {
 
 // Love Meter Messages
 loveMessages: {
-    extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows above 5000%
-    high: "To infinity and beyond! 🚀💝",              // Shows above 1000%
-    normal: "And beyond! 🥰"                           // Shows above 100%
+    extreme: "ok relax bro, crazy woman🥰🚀💝",  // Shows above 5000%
+    high: "okay you can go higher wtf woman 🚀💝",              // Shows above 1000%
+    normal: "if its this much find someone else, increase now!!!! 🥰"                           // Shows above 100%
 }
 
 // Final Celebration
 celebration: {
-    title: "Yay! I'm the luckiest person...",     // Celebration title
-    message: "Now come get your gift...",          // Celebration message
+    title: "I LOOVE YOU TOOOOO SEXY YUMMY CUTIEIEIEIEIEEI",     // Celebration title
+    message: "SENDING KISSSSSESESES AND HUGGGGS CUTIEEEE ENJoy your trip baby cutie",          // Celebration message
     emojis: "🎁💖🤗💝💋❤️💕"                        // Celebration emojis
 }
 
